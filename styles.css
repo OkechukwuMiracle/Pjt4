@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-size: 250%;
+}
+
+div {
+    display: flex;
+    justify-content: right;
+}
+    
+.one {
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 2px;
+    font-size: 130%;
+    font-style: oblique;
+    background-color: white;
+}
+    
+table, th, td {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px solid;
+    background-color:skyblue;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-style: oblique;
+}
+
+body {
+    background-image: url("https://th.bing.com/th/id/R.1e14d33a7ebeb80ad9d81c95563179ff?rik=MTv0SKXuPP7PTQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f-Avt9sfI9ULA%2fTwLDG1Q9R-I%2fAAAAAAAAA3A%2fGsBbpP3n1SQ%2fs1600%2fworld-wallpaper-1-783304.jpg&ehk=W4GlPFtH56nLUwGZFWhG65xKQaX6KVQakpL2w5dwod8%3d&risl=&pid=ImgRaw&r=0");
+    background-size: 700px;
+    
+}
+
+p {
+    font-size: 20px;
+}
+
+.two {
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+}
